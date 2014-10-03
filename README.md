@@ -16,3 +16,7 @@ TagTime was conceived of, designed, and [implemented](https://github.com/dreeves
 This implementation uses libraries licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html). These are [Quartz Scheduler](http://www.quartz-scheduler.org/), [json-simple](http://code.google.com/p/json-simple/), and various libraries from the [Apache Commons](http://commons.apache.org/codec/).
 
 The system tray icon comes from the [Silk icon set](http://www.famfamfam.com/lab/icons/silk/) by Mark James, available under a [Creative Commons Attribution 2.5 license](http://creativecommons.org/licenses/by/2.5/).
+
+---
+
+Put a progressbar on the dev branch. This version is vanilla.
