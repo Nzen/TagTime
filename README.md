@@ -19,4 +19,4 @@ The system tray icon comes from the [Silk icon set](http://www.famfamfam.com/lab
 
 ---
 
-Put a progressbar on the dev branch. This version is vanilla.
+Put a progressbar on the dev branch. Master branch is vanilla.
